@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/obj
+/ConsoleApp9.sln
+/ConsoleApp9.csproj
+/bin/Debug/net6.0
+/.vs/ConsoleApp9
